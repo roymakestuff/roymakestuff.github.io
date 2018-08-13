@@ -1,0 +1,23 @@
+<package>
+	<id>com.Roy.capture</id>
+	<name>Old Package</name>
+	<version>1.0.0-3+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Takes a picture when incorrect passcode entered or when Face ID mismatches! </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
